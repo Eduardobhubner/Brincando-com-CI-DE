@@ -1,0 +1,14 @@
+{
+  "name": "ls",
+  "version": "1.0.0",
+  "description": "Revendo alguns conceitos de como criar um Ci/Cd no github action",
+  "main": "index.js",
+  "scripts": {
+    "test": " ls"
+  },
+  "author": "",
+  "license": "ISC",
+  "dependencies": {
+    "yarn": "^1.22.22"
+  }
+}
